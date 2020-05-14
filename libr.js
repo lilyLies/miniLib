@@ -1,4 +1,3 @@
-<script type="text/javascript">
 "use strict";
     
 let constr = {
@@ -52,4 +51,4 @@ let constr = {
 }
 
 
-</script>
+
